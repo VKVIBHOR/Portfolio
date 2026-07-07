@@ -58,7 +58,7 @@ export default function ExperienceSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 w-full">
           <ExperienceCard 
             company="Catalogous"
-            role="Software Development Engineer Intern"
+            role="Software Development and Product Intern"
             date="July 2025 – Sep 2025"
             logo="/cata.png"
             content={catalogousContent}
